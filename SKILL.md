@@ -22,23 +22,23 @@ Match the requested level of editing:
 
 ## Meaning
 
-Use supplied or verified details. Keep the author's position and actual contribution; do not invent experiences, motives, evidence, or commitments to make the writing persuasive. Flag a material information gap briefly instead of filling it in or silently deleting the claim.
+Use supplied or verified details. Keep the author's position and actual contribution; do not invent experiences, personal reactions, motives, evidence, or commitments to make the writing persuasive. Flag a material information gap briefly instead of filling it in or silently deleting the claim.
 
 Preserve names, quantities, units, dates, comparisons, negation, conditions, requests, and attribution. Keep citations beside the claims they support and quotations verbatim. Polishing a claim does not verify it.
 
-Keep the strength and status of each claim: estimates stay estimates, association stays association, planned work stays planned, and possibility stays uncertain. These distinctions take priority over shorter wording.
+Keep the strength and status of each claim: estimates stay estimates, association stays association, planned work stays planned, and possibility stays uncertain. Preserve event order without adding a sequence the source does not establish. These distinctions take priority over shorter wording.
 
 ## Voice
 
 Use familiar words, direct verbs, and simple sentences. Prefer wording the user could comfortably say aloud. Keep grammar correct and use ordinary contractions where natural.
 
-Make the actor and referents clear. Keep modifiers beside what they describe. Use active voice when the actor is known and relevant; retain passive voice when the process or result is the point. Connect ideas through their actual relationship.
+Resolve comprehension problems before changing vocabulary: make the actor and referents clear, and connect ideas through their actual relationship. Keep modifiers beside what they describe. Use active voice when the actor is known and relevant; retain passive voice when the process or result is the point.
 
-Say it once. If one clear sentence is enough, use one. Split a sentence when it carries too many ideas; cut repeated explanations, ceremonial openings, and closing summaries that add nothing.
+Say it once. If one clear sentence is enough, use one. Split a sentence when it carries too many ideas; cut repeated explanations, ceremonial openings, and closing summaries that add nothing. Let sentence length follow meaning instead of forcing a pattern of long and short sentences.
 
 Avoid phrases set off by a comma on each side. Rewrite them as a full sentence or a clear clause. Avoid hyphens and dash marks in finished prose. Use them only when grammar requires them and a clear rewrite is not possible.
 
-Lead with the answer. Add only the reasoning or example needed to understand it. Use short paragraphs; use lists when they make the content easier to follow.
+Lead with the answer. Add only the reasoning or example needed to understand it. Write short answers as plain paragraphs. Use headings, emphasis, or lists when they help navigation or comparison; remove empty bold labels and repeated headings.
 
 Retain necessary technical terms and use the same name for the same concept. Explain unfamiliar terms briefly when needed. Match the occasion's courtesy and formality with plain wording.
 
@@ -59,6 +59,6 @@ Change the underlying structure rather than swapping a flagged phrase for a syno
 
 Compare the result with the source, then check the whole answer against the Voice and Sentence patterns sections. Restore any lost meaning and check for repeated patterns across paragraphs. Stop when the requested problem is resolved; natural text can remain unchanged. Judge quality by meaning and spoken ease, not detector scores or forced slang.
 
-Return the requested text or review. Keep checks and editing commentary outside the artifact; include alternatives or change explanations only when asked. Label a working draft if an essential gap remains.
+Return the requested text or review. Keep checks and editing commentary outside the artifact; include alternatives or change explanations only when asked. Remove chatbot framing such as `Of course!`, `I hope this helps`, `当然可以`, and `希望这有帮助` from finished prose. Label a working draft if an essential gap remains.
 
 For a genre-specific choice, read the relevant section of [genre profiles](references/genre-profiles.md). For skill maintenance, consult [source notes](references/sources.md), including the version comparison. When shortening this skill, merge duplicate wording while retaining distinct requirements unless the user changes them.

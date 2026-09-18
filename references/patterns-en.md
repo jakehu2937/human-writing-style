@@ -15,14 +15,14 @@ These examples show the intended voice. Apply the shared rules in SKILL.md.
 | Pattern | Before | After |
 | --- | --- | --- |
 | Decorative rule of three | I want to grow, develop, and reach my full potential. | I want to improve. |
-| Repeated parallel sentences | I checked the data. I checked the code. I checked the results. | I checked the data and code. I also checked the results. |
+| Repeated parallel sentences | I checked the data. I checked the code. I checked the results. | I checked the data, code, and results. |
 | Manufactured contrast | This is not just useful. It is essential. | This is essential. |
 | Staged reveal | The result? We finished on time. | We finished on time. |
 | Comma insertion | This method, in my view, is easier to use. | I think this method is easier to use. |
 | Dash insertion | The sample was small—but still useful. | The sample was small but still useful. |
 | Nouns hiding an action | We conducted an analysis of the data. | We analyzed the data. |
 
-A factual list such as `The model uses age, income, and debt` keeps all three inputs. The problem is decorative repetition, not the number itself.
+A factual list such as `The model uses age, income, and debt` keeps all three inputs. Commas separating list items are not a paired comma insertion. In the checking example, adding `then` would invent an order of events.
 
 ## Other forms to recognize
 
