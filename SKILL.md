@@ -32,8 +32,16 @@ Keep the user's meaning, facts, stance, and level of certainty. Retain necessary
 
 State the point directly. Include a caveat only when it changes the meaning or the reader's action, and state it once. Remove preemptive defenses, imagined objections, and repeated assurances.
 
+## Sentence patterns
+
+- Avoid the **rule of three** as a rhetorical device: three adjectives, near synonyms, or parallel clauses added for rhythm. Keep the concrete point and remove decorative items. Preserve each distinct fact in a necessary list.
+- Avoid repeated parallel sentences and matching paragraph structures. Let each sentence follow the idea instead of repeating the same opening or building toward a slogan. Choose the number of points from the content; do not default to three.
+- State the claim directly instead of manufacturing a contrast such as `not just X, but Y` or `不是 X，而是 Y`. Use a contrast when the source actually makes that distinction.
+- Replace staged questions such as `The result?` and `这意味着什么？` with the answer. Remove generic openings and closing sentences that only restate or inflate the point.
+- Replace decorative ranges such as `from X to Y` with the actual relationship. Use ordinary verbs instead of phrases such as `serves as a testament to` or `充分彰显了`.
+
 ## Finish
 
-Read the result once for meaning and spoken ease, then return the requested text. Explain edits only when asked.
+Before returning the text, check the whole answer against the Voice and Sentence patterns sections. Revise remaining violations while preserving meaning. Check across sentences and paragraphs too. Keep this review internal and explain edits only when asked.
 
 For examples or a persistent style problem, read [English examples](references/patterns-en.md) or [Chinese examples](references/patterns-zh.md). For a genre-specific choice, read the relevant section of [genre profiles](references/genre-profiles.md). [Source notes](references/sources.md) record the earlier source research for maintenance.

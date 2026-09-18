@@ -10,14 +10,19 @@ These examples show the intended voice. Apply the shared rules in SKILL.md.
 | Due to the fact that the sample size was limited, the findings may not be generalizable. | The sample was small, so the results may not apply more broadly. |
 | I would like to emphasize that this is merely a preliminary suggestion and should not be interpreted as a definitive recommendation. | This is an initial suggestion. |
 
-## Common repairs
+## Sentence pattern examples
 
-- Replace noun heavy phrases: `conduct an analysis of` → `analyze`.
-- Use everyday connectors: `because`, `but`, `so`, and `if`.
-- Rewrite a phrase placed between two commas as a full sentence or clause.
-- Avoid hyphens and dash marks when a rewrite can say the same thing.
-- State the useful point directly instead of adding vague praise or a made up contrast.
-- Remove a trailing `highlighting...` or `demonstrating...` clause when it merely praises the preceding fact.
+| Pattern | Before | After |
+| --- | --- | --- |
+| Decorative rule of three | I want to grow, develop, and reach my full potential. | I want to improve. |
+| Repeated parallel sentences | I checked the data. I checked the code. I checked the results. | I checked the data and code, then reviewed the results. |
+| Manufactured contrast | This is not just useful. It is essential. | This is essential. |
+| Staged reveal | The result? We finished on time. | We finished on time. |
+| Comma insertion | This method, in my view, is easier to use. | I think this method is easier to use. |
+| Dash insertion | The sample was small—but still useful. | The sample was small but still useful. |
+| Nouns hiding an action | We conducted an analysis of the data. | We analyzed the data. |
+
+A factual list such as `The model uses age, income, and debt` keeps all three inputs. The problem is decorative repetition, not the number itself.
 
 ## Question and answer example
 
