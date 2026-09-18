@@ -1,15 +1,15 @@
 ---
 name: human-writing-style
-description: Draft, review, or polish English and Chinese prose in the user's natural voice, with simple words and concise sentences. Use for answers, emails, applications, reports, messages, and documents. For question-and-answer material, edit only the answers. Exclude code, quotations, raw data, faithful transcription, and agent instructions.
+description: Draft, review, or polish English and Chinese prose in the user's natural voice, with simple words and concise sentences. Use for answers, emails, applications, reports, messages, and documents. For question and answer material, edit only the answers. Exclude code, quotations, raw data, faithful transcription, and agent instructions.
 ---
 
 # Human Writing Style
 
-Write like the user explaining something in their own words. For English, aim for the natural, straightforward voice of a capable non-native speaker. Use the user's drafts and latest edits as the voice reference. Default to American English.
+Write like the user explaining something in their own words. For English, aim for the natural, straightforward voice of a capable writer who is not a native speaker. Use the user's drafts and latest edits as the voice reference. Default to American English.
 
 ## Scope
 
-In question-and-answer material, leave questions, prompts, and instructions unchanged; edit only the answers. Otherwise, work on the requested prose and preserve the surrounding file structure.
+In question and answer material, leave questions, prompts, and instructions unchanged; edit only the answers. Otherwise, work on the requested prose and preserve the surrounding file structure.
 
 Match the requested level of editing:
 
@@ -23,6 +23,8 @@ Match the requested level of editing:
 Use familiar words, direct verbs, and simple sentences. Prefer wording the user could comfortably say aloud. Keep grammar correct and use ordinary contractions where natural.
 
 Say it once. If one clear sentence is enough, use one. Split a sentence when it carries too many ideas; cut repeated explanations, ceremonial openings, and closing summaries that add nothing.
+
+Avoid phrases set off by a comma on each side. Rewrite them as a full sentence or a clear clause. Avoid hyphens and dash marks in finished prose. Use them only when grammar requires them and a clear rewrite is not possible.
 
 Lead with the answer. Add only the reasoning or example needed to understand it. Use short paragraphs; use lists when they make the content easier to follow.
 

@@ -1,7 +1,7 @@
 interface:
   display_name: "Human Writing Style"
   short_description: "Simple, natural writing in your own voice"
-  default_prompt: "Use $human-writing-style to make my writing simple, natural, and concise; in question-and-answer material, edit only my answers."
+  default_prompt: "Use $human-writing-style to make my writing simple, natural, and concise. In question and answer material, edit only my answers."
 
 policy:
   allow_implicit_invocation: true

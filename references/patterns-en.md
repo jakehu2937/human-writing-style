@@ -12,13 +12,14 @@ These examples show the intended voice. Apply the shared rules in SKILL.md.
 
 ## Common repairs
 
-- Replace noun-heavy phrases: `conduct an analysis of` → `analyze`.
+- Replace noun heavy phrases: `conduct an analysis of` → `analyze`.
 - Use everyday connectors: `because`, `but`, `so`, and `if`.
-- Delete a manufactured contrast: `It is not just about speed; it is about accuracy` → `Accuracy matters` when speed was never at issue.
-- Replace vague praise with the specific reason already in the draft.
+- Rewrite a phrase placed between two commas as a full sentence or clause.
+- Avoid hyphens and dash marks when a rewrite can say the same thing.
+- State the useful point directly instead of adding vague praise or a made up contrast.
 - Remove a trailing `highlighting...` or `demonstrating...` clause when it merely praises the preceding fact.
 
-## Question-and-answer example
+## Question and answer example
 
 **Source**
 
